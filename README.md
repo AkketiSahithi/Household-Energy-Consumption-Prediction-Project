@@ -1,10 +1,3 @@
-Yes! You should **definitely copy the "Run the API" section** — it’s very helpful for anyone (including future you 😄) to understand how to start the FastAPI app.
-
-Here’s the final copy-ready version with **everything included**, including how to run the API:
-
----
-
-````markdown
 # Residential Energy Consumption Prediction Platform
 
 This project is a FastAPI-based web API that predicts residential energy consumption using a trained machine learning model. It supports both single predictions via JSON and batch predictions through CSV file upload.
